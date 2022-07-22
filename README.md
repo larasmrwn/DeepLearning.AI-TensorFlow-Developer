@@ -16,5 +16,6 @@ This course consist of:
   - Data Pipelines with TensorFlow Data Services
   - Advanced Deployment Scenarios with TensorFlow
 
+
 ![Coursera K6XSY7T99JEK_page-0001](https://user-images.githubusercontent.com/71112016/180486090-0b33043e-31ee-4b4b-a25a-a74826f4c5af.jpg)
 
